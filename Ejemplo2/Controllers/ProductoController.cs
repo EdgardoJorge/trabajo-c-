@@ -120,6 +120,17 @@ namespace Ejemplo2.Controllers
             }
             return NoContent(); //StatusCode 204
         }
+        [HttpGet]
+        [Route("buscar")]
+        public IActionResult BucarProductos([FromQuery] string parametro, [FromQuery]? int categoria)
+        {
+            string v2 = parametro ?? "";
+            var productos = _db.Productos.Where(
+                producto => producto.nombre.Contains(parametro)
+                && (categoria == 0 || producto.categoria_id == categoria)
+                ).ToList();
+            return Ok(productos);
+        }
 
     }
 

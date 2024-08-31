@@ -587,11 +587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\labf\\Documents\\prueba\\Ejemplo2\\ejemploData\\ejemploData.csproj",
+      "projectUniqueName": "C:\\Users\\labf\\Documents\\prueba\\trabajo-c-\\ejemploData\\ejemploData.csproj",
       "projectName": "ejemploData",
-      "projectPath": "C:\\Users\\labf\\Documents\\prueba\\Ejemplo2\\ejemploData\\ejemploData.csproj",
+      "projectPath": "C:\\Users\\labf\\Documents\\prueba\\trabajo-c-\\ejemploData\\ejemploData.csproj",
       "packagesPath": "C:\\Users\\labf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\labf\\Documents\\prueba\\Ejemplo2\\ejemploData\\obj\\",
+      "outputPath": "C:\\Users\\labf\\Documents\\prueba\\trabajo-c-\\ejemploData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
