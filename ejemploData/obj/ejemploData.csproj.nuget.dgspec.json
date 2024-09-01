@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labf\\Documents\\prueba\\trabajo-c-\\ejemploData\\ejemploData.csproj": {}
+    "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\ejemploData\\ejemploData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labf\\Documents\\prueba\\trabajo-c-\\ejemploData\\ejemploData.csproj": {
+    "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\ejemploData\\ejemploData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labf\\Documents\\prueba\\trabajo-c-\\ejemploData\\ejemploData.csproj",
+        "projectUniqueName": "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\ejemploData\\ejemploData.csproj",
         "projectName": "ejemploData",
-        "projectPath": "C:\\Users\\labf\\Documents\\prueba\\trabajo-c-\\ejemploData\\ejemploData.csproj",
-        "packagesPath": "C:\\Users\\labf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labf\\Documents\\prueba\\trabajo-c-\\ejemploData\\obj\\",
+        "projectPath": "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\ejemploData\\ejemploData.csproj",
+        "packagesPath": "C:\\Users\\Edgardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\ejemploData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\labf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Edgardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -66,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
