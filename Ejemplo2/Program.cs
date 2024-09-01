@@ -12,7 +12,7 @@ builder.Services.AddSwaggerGen();
 
 // Configurar Base de datos
 
-string con = "Data Source=IHR80PBBF04\\MSSQLSERVER1;Initial Catalog=MiDb6;Integrated Security=True; TrustServerCertificate=False";
+string con = "Data Source=DESKTOP-J34L8LH;Initial Catalog=MiDb6;Integrated Security=True; TrustServerCertificate=False";
 builder.Services.AddDbContext<MiDbContext>(
     conf => conf.UseSqlServer(
         con, 

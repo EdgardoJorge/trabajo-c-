@@ -184,3 +184,14 @@ C:\Users\labf\Documents\prueba\Ejemplo2\Ejemplo2\obj\Debug\net6.0\refint\Ejemplo
 C:\Users\labf\Documents\prueba\Ejemplo2\Ejemplo2\obj\Debug\net6.0\Ejemplo2.pdb
 C:\Users\labf\Documents\prueba\Ejemplo2\Ejemplo2\obj\Debug\net6.0\Ejemplo2.genruntimeconfig.cache
 C:\Users\labf\Documents\prueba\Ejemplo2\Ejemplo2\obj\Debug\net6.0\ref\Ejemplo2.dll
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.AssemblyInfoInputs.cache
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.AssemblyInfo.cs
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.sourcelink.json
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.dll
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\refint\Ejemplo2.dll
+C:\Users\Edgardo\Documents\trabajo-c-\Ejemplo2\obj\Debug\net6.0\Ejemplo2.pdb

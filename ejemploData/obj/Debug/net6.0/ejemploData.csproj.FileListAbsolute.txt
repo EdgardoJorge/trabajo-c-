@@ -22,3 +22,16 @@ C:\Users\labf\Documents\prueba\Ejemplo2\ejemploData\obj\Debug\net6.0\ejemploData
 C:\Users\labf\Documents\prueba\Ejemplo2\ejemploData\obj\Debug\net6.0\refint\ejemploData.dll
 C:\Users\labf\Documents\prueba\Ejemplo2\ejemploData\obj\Debug\net6.0\ejemploData.pdb
 C:\Users\labf\Documents\prueba\Ejemplo2\ejemploData\obj\Debug\net6.0\ref\ejemploData.dll
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\bin\Debug\net6.0\ejemploData.deps.json
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\bin\Debug\net6.0\ejemploData.dll
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\bin\Debug\net6.0\ejemploData.pdb
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ejemploData.csproj.AssemblyReference.cache
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ejemploData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ejemploData.AssemblyInfoInputs.cache
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ejemploData.AssemblyInfo.cs
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ejemploData.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ejemploData.sourcelink.json
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ejemploData.dll
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\refint\ejemploData.dll
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ejemploData.pdb
+C:\Users\Edgardo\Documents\trabajo-c-\ejemploData\obj\Debug\net6.0\ref\ejemploData.dll
