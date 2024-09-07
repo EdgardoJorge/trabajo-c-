@@ -2801,40 +2801,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Edgardo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\labf\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\Ejemplo2\\Ejemplo2.csproj",
+      "projectUniqueName": "E:\\Ejemplo2\\Ejemplo2\\Ejemplo2\\Ejemplo2.csproj",
       "projectName": "Ejemplo2",
-      "projectPath": "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\Ejemplo2\\Ejemplo2.csproj",
-      "packagesPath": "C:\\Users\\Edgardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\Ejemplo2\\obj\\",
+      "projectPath": "E:\\Ejemplo2\\Ejemplo2\\Ejemplo2\\Ejemplo2.csproj",
+      "packagesPath": "C:\\Users\\labf\\.nuget\\packages\\",
+      "outputPath": "E:\\Ejemplo2\\Ejemplo2\\Ejemplo2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Edgardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\labf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\ejemploData\\ejemploData.csproj": {
-              "projectPath": "C:\\Users\\Edgardo\\Documents\\trabajo-c-\\ejemploData\\ejemploData.csproj"
+            "E:\\Ejemplo2\\Ejemplo2\\ejemploData\\ejemploData.csproj": {
+              "projectPath": "E:\\Ejemplo2\\Ejemplo2\\ejemploData\\ejemploData.csproj"
             }
           }
         }
@@ -2843,11 +2844,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2896,7 +2892,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

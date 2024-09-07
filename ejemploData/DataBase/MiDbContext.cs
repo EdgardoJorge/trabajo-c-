@@ -61,6 +61,8 @@ namespace ejemploData.DataBase
         public DbSet<Persona> Personas { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<OfertaProducto> OfertaProductos { get; set; }
+
+        public DbSet<Oferta> Ofertas { get; set; }
         
     }
 }

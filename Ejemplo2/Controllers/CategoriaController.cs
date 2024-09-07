@@ -115,15 +115,20 @@ namespace Ejemplo2.Controllers
             return NoContent(); //StatusCode 204
         }
 
+
+
         [HttpGet]
         [Route("{id}/productos")]
         public IActionResult ProductoPorCategoria([FromRoute] int id)
         {
             var productos = _db.Productos.Where(
-                    (Producto) => Producto.categoria_id == id
+                        (producto) => producto.categoria_id == id
                 ).ToList();
+
             return Ok(productos);
         }
+
+
 
     }
 }

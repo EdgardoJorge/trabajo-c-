@@ -120,18 +120,21 @@ namespace Ejemplo2.Controllers
             }
             return NoContent(); //StatusCode 204
         }
+
         [HttpGet]
         [Route("buscar")]
-        public IActionResult BucarProductos([FromQuery] string parametro, [FromQuery]? int categoria)
-        {
-            string v2 = parametro ?? "";
-            var productos = _db.Productos.Where(
-                producto => producto.nombre.Contains(parametro)
-                && (categoria == 0 || producto.categoria_id == categoria)
+        public IActionResult BusarProductos(
+            [FromQuery]string? parametro,
+            [FromQuery]int categoria
+            ) {
+             parametro = parametro ?? "";
+ 
+            var productos =  _db.Productos.Where(
+                    p => p.nombre.Contains(parametro) 
+                         && (categoria == 0 || p.categoria_id == categoria)
                 ).ToList();
             return Ok(productos);
         }
-
     }
 
 }
