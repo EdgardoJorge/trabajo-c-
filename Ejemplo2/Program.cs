@@ -12,7 +12,7 @@ builder.Services.AddSwaggerGen();
 
 // Configurar Base de datos
 
-string con = "Data Source=IHR80PBBF48\\MSSQLSERVER1;Initial Catalog=MiDb5;Integrated Security=True; TrustServerCertificate=False";
+string con = "Data Source=IHR80PBBF03\\MSSQLSERVER1;Initial Catalog=MiDb5;Integrated Security=True; TrustServerCertificate=False";
 builder.Services.AddDbContext<MiDbContext>(
     conf => conf.UseSqlServer(
         con, 
@@ -20,15 +20,15 @@ builder.Services.AddDbContext<MiDbContext>(
     ) ;
 
 
-/*
-string con = "Data Source= MiMiniDB.db";
+
+/*string con = "Data Source= MiMiniDB.db";
 builder.Services.AddDbContext<MiDbContext>(
     conf => conf.UseSqlite(
         con,
         b => b.MigrationsAssembly("Ejemplo2")
         )
-    );
-*/
+    );*/
+
 
 
 var app = builder.Build();

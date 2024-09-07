@@ -2808,11 +2808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Ejemplo2\\Ejemplo2\\Ejemplo2\\Ejemplo2.csproj",
+      "projectUniqueName": "C:\\Users\\labf\\Documents\\trabajo-c-\\Ejemplo2\\Ejemplo2.csproj",
       "projectName": "Ejemplo2",
-      "projectPath": "E:\\Ejemplo2\\Ejemplo2\\Ejemplo2\\Ejemplo2.csproj",
+      "projectPath": "C:\\Users\\labf\\Documents\\trabajo-c-\\Ejemplo2\\Ejemplo2.csproj",
       "packagesPath": "C:\\Users\\labf\\.nuget\\packages\\",
-      "outputPath": "E:\\Ejemplo2\\Ejemplo2\\Ejemplo2\\obj\\",
+      "outputPath": "C:\\Users\\labf\\Documents\\trabajo-c-\\Ejemplo2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -2834,8 +2834,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Ejemplo2\\Ejemplo2\\ejemploData\\ejemploData.csproj": {
-              "projectPath": "E:\\Ejemplo2\\Ejemplo2\\ejemploData\\ejemploData.csproj"
+            "C:\\Users\\labf\\Documents\\trabajo-c-\\ejemploData\\ejemploData.csproj": {
+              "projectPath": "C:\\Users\\labf\\Documents\\trabajo-c-\\ejemploData\\ejemploData.csproj"
             }
           }
         }

@@ -12,8 +12,8 @@ using ejemploData.DataBase;
 namespace Ejemplo2.Migrations
 {
     [DbContext(typeof(MiDbContext))]
-    [Migration("20240831195328_of-pr")]
-    partial class ofpr
+    [Migration("20240907195218_inicial")]
+    partial class inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

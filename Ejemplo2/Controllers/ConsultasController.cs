@@ -1,4 +1,5 @@
 ﻿using ejemploData.DataBase;
+using ejemploData.DataBase.Tables;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ejemplo2.Controllers
@@ -71,6 +72,20 @@ namespace Ejemplo2.Controllers
             //.ToList();
             
 
+
+            return Ok(query);
+        }
+
+        [HttpGet]
+        [Route("Persona")]
+        public IActionResult PersonaUsuario()
+        {
+            var query = _db.Personas.Join(
+                _db.Usuarios,
+                (per) => per.id,
+                (Us) => Us.persona_id,
+                (per, Us) => new { Persona = per, Usuario = Us }
+                ).ToList();
 
             return Ok(query);
         }
